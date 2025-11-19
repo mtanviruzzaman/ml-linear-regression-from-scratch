@@ -1,4 +1,4 @@
-Solve lineare regression using numpy:
+Solve linear regression using numpy:
 1. In closed form
 2. Using gradient descent
 
