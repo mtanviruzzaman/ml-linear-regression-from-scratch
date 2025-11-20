@@ -12,4 +12,4 @@
    * Too big a learning rate causes divergence
    * Unnormalized data cuses divergence
 
-<img width="665" height="487" alt="image" src="https://github.com/user-attachments/assets/6a514891-4960-4b69-81cf-c7b7f06ab1fd" />
+<img width="554" height="435" alt="image" src="https://github.com/user-attachments/assets/33a09627-5d66-4143-8754-46fe17cbcc14" />
