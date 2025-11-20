@@ -4,8 +4,8 @@
     * Using stochastic gradient descent
 
 * Key points:
-    ** Too big a learning rate causes divergence
-    ** Unnormalized data causes overflow during gradient descent
+*    Too big a learning rate causes divergence
+*    Unnormalized data cuses divergence
 
 * Solve linear regression in Scikit-learn
 
