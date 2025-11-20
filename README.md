@@ -5,6 +5,9 @@
 
 * Solve linear regression in Scikit-learn
 
+* Solve linear regression in Pytorch
+    * Single linear neuron
+
 * Key points:
    * Too big a learning rate causes divergence
    * Unnormalized data cuses divergence
