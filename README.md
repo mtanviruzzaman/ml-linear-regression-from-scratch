@@ -2,15 +2,7 @@
     * In closed form
     * Using batch gradient descent
     * Using stochastic gradient descent
-<<<<<<< HEAD
 
-* Key points:
-    ** Too big a learning rate causes divergence
-    ** Unnormalized data causes overflow during gradient descent
-
-=======
- 
->>>>>>> 3928a79d030934091f026b4d6affcc35798bb9e4
 * Solve linear regression in Scikit-learn
 
 * Key points:
